@@ -1,0 +1,47 @@
+body {
+  color: white;
+  background-color: #222222;
+  font-family: Tahoma;
+  padding: 0 20%;
+}
+a {
+  color: gainsboro;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.back-to-top {
+  text-align: right;
+}
+button {
+  color: white;
+  background-color: transparent;
+  border: 2px solid;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: inherit;
+  padding: 10px 20px;
+}
+button:hover {
+  border: 2px solid gray;
+  color: white;
+}
+code {
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  padding: 2px 5px;
+}
+hr {
+  border: 0;
+  border-top: 1px solid;
+}
+th {
+  text-align: inherit;
+}
+th, td {
+  padding: 5px 20px;
+}
+ul {
+  padding-bottom: 5px;
+}

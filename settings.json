@@ -1,0 +1,19 @@
+{
+  "creator": 439081159620689940,
+  "admins": [
+    439081159620689940,
+    306771291250229250
+  ],
+  "logsChannel": 568187383007412224,
+  "embedColour": 8323072,
+  "links": {
+    "website": "https://news-bot.tk/",
+    "invite": "https://news-bot.tk/redirects/invite.html",
+    "server": "https://news-bot.tk/redirects/server.html",
+    "getting-started": "https://news-bot.tk/#getting-started",
+    "vote": "https://news-bot.tk/#vote",
+    "sources": "https://news-bot.tk/#sources",
+    "trello": "https://trello.com/b/0ACzWBv6/news-bot",
+    "github": "https://github.com/Bappy0X/News-Bot"
+  }
+}
